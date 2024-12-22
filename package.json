@@ -10,12 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "edgedb": "^1.5.12",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@edgedb/generate": "^0.5.6",
     "@eslint/compat": "^1.2.4",
     "@eslint/eslintrc": "^3.2.0",
     "@eslint/js": "^9.17.0",
